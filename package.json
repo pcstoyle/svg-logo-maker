@@ -1,7 +1,7 @@
 {
   "name": "svg-logo-maker",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bootcamp Week 10 Challenge",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "inquirer": "^8.2.4"
+  },
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
   }
 }
