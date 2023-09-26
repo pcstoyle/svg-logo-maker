@@ -34,6 +34,7 @@ MIT
 
 ## Tests
 
+[Logo Maker Demo](</Assets/svglogomaker.mp4>)
 
 
 ## Questions
